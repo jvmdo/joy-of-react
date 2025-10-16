@@ -4,6 +4,12 @@
 
 ### Module 02: Working with state
 
+- [Gradient generator](https://codesandbox.io/p/sandbox/02-gradient-generator-6srx4t)
+- [Generative art](https://codesandbox.io/p/sandbox/02-generative-art-wlthtj)
+- [Two-factor authentication](https://codesandbox.io/p/sandbox/02-two-factor-authentication-lv23k7)
+- [Controlled country picker](https://codesandbox.io/p/sandbox/02-controlled-country-picker-yhwqjr)
+- [Counter 2.0](https://codesandbox.io/p/sandbox/02-counter-2-5q5c7x)
+- [Bastions and basilisks bug](https://codesandbox.io/p/sandbox/02-bastions-and-basilisks-bug-qnt7d6)
 - [Click the ball v2](https://codesandbox.io/p/sandbox/02-click-the-ball-v2-3kkyhg)
 - [Click the ball](https://codesandbox.io/p/sandbox/02-click-the-ball-gn3jwf)
 
