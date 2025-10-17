@@ -4,6 +4,9 @@
 
 ### Module 02: Working with state
 
+- [Shopping list](https://codesandbox.io/p/sandbox/02-shopping-list-3cc7s6)
+- [Toonie clicker](https://codesandbox.io/p/sandbox/02-toonie-clicker-5xpmt8)
+- [Gradient generator (stretched)](https://codesandbox.io/p/sandbox/02-gradient-generator-stretched-s8nv79)
 - [Gradient generator](https://codesandbox.io/p/sandbox/02-gradient-generator-6srx4t)
 - [Generative art](https://codesandbox.io/p/sandbox/02-generative-art-wlthtj)
 - [Two-factor authentication](https://codesandbox.io/p/sandbox/02-two-factor-authentication-lv23k7)
