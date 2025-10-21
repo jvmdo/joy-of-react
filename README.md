@@ -1,5 +1,12 @@
 # Joy of React
 
+## Projects
+
+### Word game (Wordle clone)
+
+- [Repository](https://github.com/jvmdo/wordle-clone)
+- [Codesandbox](https://codesandbox.io/p/github/jvmdo/wordle-clone/main?import=true)
+
 ## Challenges, lessons and exercises
 
 ### Module 02: Working with state
