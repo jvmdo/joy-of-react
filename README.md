@@ -9,6 +9,18 @@
 
 ## Challenges, lessons and exercises
 
+### Module 03: Hooks
+
+- [Useless machine](https://codesandbox.io/p/sandbox/03-useless-machine-pd4zp3)
+- [Digital clock](https://codesandbox.io/p/sandbox/03-digital-clock-ctghmp)
+- [Toasty!](https://codesandbox.io/p/sandbox/03-toasty-yqnjcs)
+- [Window dimensions](https://codesandbox.io/p/sandbox/03-window-dimensions-pcc37q)
+- [Locally-persisted state](https://codesandbox.io/p/sandbox/03-locally-persisted-state-gfvrms)
+- [Media player](https://codesandbox.io/p/sandbox/03-media-player-j6z9zk)
+- [Video playback speed](https://codesandbox.io/p/sandbox/03-video-playback-speed-hkqphq)
+- [Rules of the Hooks violation 2](https://codesandbox.io/p/sandbox/03-rules-of-hooks-violation-2-233wrz)
+- [Rules of the Hooks violation 1](https://codesandbox.io/p/sandbox/03-rules-of-the-hooks-violation-1-9ljzk6)
+
 ### Module 02: Working with state
 
 - [Shopping list](https://codesandbox.io/p/sandbox/02-shopping-list-3cc7s6)
