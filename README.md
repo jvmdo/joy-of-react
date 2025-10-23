@@ -5,12 +5,17 @@
 ### Word game (Wordle clone)
 
 - [Repository](https://github.com/jvmdo/wordle-clone)
-- [Codesandbox](https://codesandbox.io/p/github/jvmdo/wordle-clone/main?import=true)
+- [CodeSandbox](https://codesandbox.io/p/github/jvmdo/wordle-clone/main?import=true)
 
 ## Challenges, lessons and exercises
 
 ### Module 03: Hooks
 
+- [use-toggle](https://codesandbox.io/p/sandbox/03-use-toggle-ryzmk3)
+- [use-is-onscreen](https://codesandbox.io/p/sandbox/03-use-is-onscreen-jmsfd4)
+- [use-mouse-position](https://codesandbox.io/p/sandbox/03-use-mouse-position-rq2qlk)
+- [Interval counter](https://codesandbox.io/p/sandbox/03-interval-counter-kxzj97)
+- [Media player with keyboard shortcut](https://codesandbox.io/p/sandbox/03-media-player-keyboard-shortcut-gh3d3l)
 - [Useless machine](https://codesandbox.io/p/sandbox/03-useless-machine-pd4zp3)
 - [Digital clock](https://codesandbox.io/p/sandbox/03-digital-clock-ctghmp)
 - [Toasty!](https://codesandbox.io/p/sandbox/03-toasty-yqnjcs)
