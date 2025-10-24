@@ -7,10 +7,19 @@
 - [Repository](https://github.com/jvmdo/wordle-clone)
 - [CodeSandbox](https://codesandbox.io/p/github/jvmdo/wordle-clone/main?import=true)
 
-## Challenges, lessons and exercises
+## Lesson exercises
+
+### Module 04: Component API design
+
+- [Product details page](https://codesandbox.io/p/sandbox/04-product-details-page-8ll7sz)
 
 ### Module 03: Hooks
 
+- [Memoized clock toggle](https://codesandbox.io/p/sandbox/03-memoized-clock-toggle-ry6z98)
+- [Shopping cart](https://codesandbox.io/p/sandbox/03-shopping-cart-8wx5qf)
+- [A pure grid](https://codesandbox.io/p/sandbox/03-a-pure-grid-3875jf)
+- [Fetching the current user](https://codesandbox.io/p/sandbox/03-fetching-the-current-user-qlcvnh)
+- [Book search](https://codesandbox.io/p/sandbox/03-book-search-99x86n)
 - [use-toggle](https://codesandbox.io/p/sandbox/03-use-toggle-ryzmk3)
 - [use-is-onscreen](https://codesandbox.io/p/sandbox/03-use-is-onscreen-jmsfd4)
 - [use-mouse-position](https://codesandbox.io/p/sandbox/03-use-mouse-position-rq2qlk)
