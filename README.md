@@ -11,6 +11,15 @@
 
 ### Module 04: Component API design
 
+- [Icon buttons (streched)](https://codesandbox.io/p/sandbox/04-icon-buttons-stretched-gycfdy)
+- [Icon buttons](https://codesandbox.io/p/sandbox/04-icon-buttons-5ryxfr)
+- [Customized heading levels](https://codesandbox.io/p/sandbox/04-customized-heading-levels-932qy3)
+- [A list component](https://codesandbox.io/p/sandbox/04-a-list-component-tqxdsp)
+- [SquareSlider forwarding](https://codesandbox.io/p/sandbox/04-squareslider-forwarding-5v3kd3)
+- [A supercharged button](https://codesandbox.io/p/sandbox/04-a-supercharged-button-8qt68k)
+- [A toggle component](https://codesandbox.io/p/sandbox/04-a-toggle-component-vyjn6t)
+- [A slider component](https://codesandbox.io/p/sandbox/04-a-slider-component-7wr875)
+- [Extracting a card component](https://codesandbox.io/p/sandbox/04-extracting-a-card-component-d98lvl)
 - [Product details page](https://codesandbox.io/p/sandbox/04-product-details-page-8ll7sz)
 
 ### Module 03: Hooks
