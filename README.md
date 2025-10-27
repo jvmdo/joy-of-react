@@ -11,6 +11,14 @@
 
 ### Module 04: Component API design
 
+- [Building a tooltip](https://codesandbox.io/p/sandbox/04-building-a-tooltip-zmwnn6)
+- [Building a FAQ](https://codesandbox.io/p/sandbox/04-building-a-faq-gryq8t)
+- [Building a hamburger navigation](https://codesandbox.io/p/sandbox/04-building-a-hamburger-navigation-pw9w4p)
+- [Building a modal](https://codesandbox.io/p/sandbox/04-building-a-modal-vdpq7s)
+- [Memoizing context values](https://codesandbox.io/p/sandbox/04-memoizing-context-values-4vggjr)
+- [Extracting provider components](https://codesandbox.io/p/sandbox/04-extracting-provider-components-xzsvyf)
+- [Video playback rate](https://codesandbox.io/p/sandbox/04-video-playback-rate-r5rkvy)
+- [Passing an user object](https://codesandbox.io/p/sandbox/04-passing-a-user-object-5yx6wd)
 - [Icon buttons (streched)](https://codesandbox.io/p/sandbox/04-icon-buttons-stretched-gycfdy)
 - [Icon buttons](https://codesandbox.io/p/sandbox/04-icon-buttons-5ryxfr)
 - [Customized heading levels](https://codesandbox.io/p/sandbox/04-customized-heading-levels-932qy3)
