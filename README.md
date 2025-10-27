@@ -2,10 +2,15 @@
 
 ## Projects
 
+### Toast playground
+
+- [Repository](https://github.com/jvmdo/toast-playground)
+- [CodeSandbox](https://codesandbox.io/p/github/jvmdo/toast-playground/main)
+
 ### Word game (Wordle clone)
 
 - [Repository](https://github.com/jvmdo/wordle-clone)
-- [CodeSandbox](https://codesandbox.io/p/github/jvmdo/wordle-clone/main?import=true)
+- [CodeSandbox](https://codesandbox.io/p/github/jvmdo/wordle-clone/main)
 
 ## Lesson exercises
 
