@@ -14,6 +14,12 @@
 
 ## Lesson exercises
 
+### Module 05: Happy practices
+
+- [Toonie clicker (stretched)](https://codesandbox.io/p/sandbox/05-toonie-clicker-stretched-r3n5jg)
+- [Toonie clicker](https://codesandbox.io/p/sandbox/05-toonie-clicker-2ck6d5)
+- [Pricing woes](https://codesandbox.io/p/sandbox/05-pricing-woes-7kmdff)
+
 ### Module 04: Component API design
 
 - [Building a tooltip](https://codesandbox.io/p/sandbox/04-building-a-tooltip-zmwnn6)
