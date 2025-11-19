@@ -16,6 +16,11 @@
 
 ### Module 05: Happy practices
 
+- [Todo list](https://codesandbox.io/p/sandbox/05-todo-list-nftxkn)
+- [Art store](https://codesandbox.io/p/sandbox/05-art-store-tysscw)
+- [Thermostat](https://codesandbox.io/p/sandbox/05-thermostat-ftckhz)
+- [Checkout flow](https://codesandbox.io/p/sandbox/05-checkout-flow-t2pfcq)
+- [Compose tweet](https://codesandbox.io/p/sandbox/05-compose-tweet-567lmw)
 - [Toonie clicker (stretched)](https://codesandbox.io/p/sandbox/05-toonie-clicker-stretched-r3n5jg)
 - [Toonie clicker](https://codesandbox.io/p/sandbox/05-toonie-clicker-2ck6d5)
 - [Pricing woes](https://codesandbox.io/p/sandbox/05-pricing-woes-7kmdff)
