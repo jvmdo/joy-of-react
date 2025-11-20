@@ -16,6 +16,10 @@
 
 ### Module 05: Happy practices
 
+- [Todo list (immer)](https://codesandbox.io/p/sandbox/05-todo-list-immer-xrxgcd)
+- [Gradient generator (immer)](https://codesandbox.io/p/sandbox/05-gradient-generator-immer-95crtt)
+- [Try not mutate](https://codesandbox.io/p/sandbox/05-try-not-mutate-zpc7zl)
+- [Counter 2.0 (reducer)](https://codesandbox.io/p/sandbox/05-counter-2-reducer-qkfr57)
 - [Todo list](https://codesandbox.io/p/sandbox/05-todo-list-nftxkn)
 - [Art store](https://codesandbox.io/p/sandbox/05-art-store-tysscw)
 - [Thermostat](https://codesandbox.io/p/sandbox/05-thermostat-ftckhz)
