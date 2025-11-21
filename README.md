@@ -16,6 +16,9 @@
 
 ### Module 05: Happy practices
 
+- [A portal component](https://codesandbox.io/p/sandbox/05-a-portal-component-cz9gdz)
+- [Toast portal](https://codesandbox.io/p/sandbox/05-toast-portal-xxmt26)
+- [Pizza toppings](https://codesandbox.io/p/sandbox/05-pizza-toppings-ysj425)
 - [Todo list (immer)](https://codesandbox.io/p/sandbox/05-todo-list-immer-xrxgcd)
 - [Gradient generator (immer)](https://codesandbox.io/p/sandbox/05-gradient-generator-immer-95crtt)
 - [Try not mutate](https://codesandbox.io/p/sandbox/05-try-not-mutate-zpc7zl)
