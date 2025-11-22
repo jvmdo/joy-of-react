@@ -14,6 +14,17 @@
 
 ## Lesson exercises
 
+### Module 06: Next.js
+
+- [Clock | Checkout cart | Interview article](https://codesandbox.io/p/devbox/06-clock-checkout-interview-wyyks9)
+- [Fixing hydration mismatch](https://codesandbox.io/p/devbox/06-fixing-hydration-mismatch-jl8kgw)
+- [Drum machine](https://codesandbox.io/p/devbox/06-drum-machine-n478l9)
+- [Reveal `bright` code snippet](https://codesandbox.io/p/devbox/06-reveal-bright-code-snippet-zqhft6)
+- [Styles server components](https://codesandbox.io/p/devbox/06-styled-server-components-dcjljq)
+- [Censored hit counter](https://codesandbox.io/p/devbox/06-censored-hit-counter-jxg942)
+- [Hit counter](https://codesandbox.io/p/github/joy-of-react/hit-counter/main)
+- [Server timestamp](https://codesandbox.io/p/github/joy-of-react/hello-next/csb-gqrr4v/06-server-timestamp)
+
 ### Module 05: Happy practices
 
 - [A portal component](https://codesandbox.io/p/sandbox/05-a-portal-component-cz9gdz)
