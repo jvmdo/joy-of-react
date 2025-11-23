@@ -16,6 +16,8 @@
 
 ### Module 06: Next.js
 
+- [Hit counter (`force-dynamic`)](https://codesandbox.io/p/devbox/06-hit-counter-force-dynamic-59692c)
+- [Screensaver | Flash messages](https://codesandbox.io/p/devbox/06-screensaver-flash-messages-sxsmlr)
 - [Clock | Checkout cart | Interview article](https://codesandbox.io/p/devbox/06-clock-checkout-interview-wyyks9)
 - [Fixing hydration mismatch](https://codesandbox.io/p/devbox/06-fixing-hydration-mismatch-jl8kgw)
 - [Drum machine](https://codesandbox.io/p/devbox/06-drum-machine-n478l9)
