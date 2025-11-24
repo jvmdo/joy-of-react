@@ -16,9 +16,10 @@
 
 ### Module 06: Next.js
 
+- [Vapor games | Artist interview with comments | CMS nav links](https://codesandbox.io/p/devbox/06-vapor-artist-cms-npq2pw)
 - [Hit counter (`force-dynamic`)](https://codesandbox.io/p/devbox/06-hit-counter-force-dynamic-59692c)
 - [Screensaver | Flash messages](https://codesandbox.io/p/devbox/06-screensaver-flash-messages-sxsmlr)
-- [Clock | Checkout cart | Interview article](https://codesandbox.io/p/devbox/06-clock-checkout-interview-wyyks9)
+- [Clock | Checkout cart | Artist interview article](https://codesandbox.io/p/devbox/06-clock-checkout-interview-wyyks9)
 - [Fixing hydration mismatch](https://codesandbox.io/p/devbox/06-fixing-hydration-mismatch-jl8kgw)
 - [Drum machine](https://codesandbox.io/p/devbox/06-drum-machine-n478l9)
 - [Reveal `bright` code snippet](https://codesandbox.io/p/devbox/06-reveal-bright-code-snippet-zqhft6)
