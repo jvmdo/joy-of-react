@@ -14,6 +14,13 @@
 
 ## Lesson exercises
 
+### Module 07: Motion
+
+- [Animated flexbox](https://codesandbox.io/p/sandbox/07-animated-flexbox-ys3l6q)
+- [Switch layout animation](https://codesandbox.io/p/sandbox/07-switch-layout-animation-mld6sm)
+- [Springy toast](https://codesandbox.io/p/sandbox/07-springy-toasty-wh66ss)
+- [Toggle animation](https://codesandbox.io/p/sandbox/07-toggle-animation-mlvcwn)
+
 ### Module 06: Next.js
 
 - [Vapor games | Artist interview with comments | CMS nav links](https://codesandbox.io/p/devbox/06-vapor-artist-cms-npq2pw)
