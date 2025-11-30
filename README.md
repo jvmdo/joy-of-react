@@ -16,6 +16,9 @@
 
 ### Module 07: Motion
 
+- [Books grid](https://codesandbox.io/p/sandbox/07-books-grid-hvfdn2)
+- [Coin sorter](https://codesandbox.io/p/sandbox/07-coin-sorter-nrr86v)
+- [Non-fungible `WidgetProcessor`](https://codesandbox.io/p/sandbox/07-non-fungible-widget-processor-9sxdtt)
 - [Animated flexbox](https://codesandbox.io/p/sandbox/07-animated-flexbox-ys3l6q)
 - [Switch layout animation](https://codesandbox.io/p/sandbox/07-switch-layout-animation-mld6sm)
 - [Springy toast](https://codesandbox.io/p/sandbox/07-springy-toasty-wh66ss)
