@@ -2,6 +2,11 @@
 
 ## Projects
 
+### MDX blog
+
+- [Repository](https://github.com/jvmdo/mdx-blog)
+- [CodeSandbox](https://codesandbox.io/p/github/jvmdo/mdx-blog/main)
+
 ### Toast playground
 
 - [Repository](https://github.com/jvmdo/toast-playground)
