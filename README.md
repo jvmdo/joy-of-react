@@ -133,3 +133,9 @@
 - [Clitter](https://codesandbox.io/p/sandbox/01-clitter-f78772)
 - [Search Input](https://codesandbox.io/p/sandbox/01-search-input-6rtjzn)
 - [Create you own react](https://codesandbox.io/p/sandbox/01-create-you-own-react-render-qmh7ml)
+
+## Interview-style challenges
+
+- [Scroll position](https://codesandbox.io/p/sandbox/i-scroll-position-xlh9xc)
+- [TODO list](https://codesandbox.io/p/sandbox/i-todo-list-hzwp66)
+- [Starfield button](https://codesandbox.io/p/sandbox/i-starfield-button-xc5c3j)
