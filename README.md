@@ -141,3 +141,5 @@
 - [Starfield button](https://codesandbox.io/p/sandbox/i-starfield-button-xc5c3j)
 - [Multi-step form](https://codesandbox.io/p/sandbox/i-multi-step-form-wr53s6)
 - [Drag and drop](https://codesandbox.io/p/sandbox/i-drag-and-drop-zdtc4r)
+- [Clicking outside](https://codesandbox.io/p/sandbox/i-clicking-outside-j62tf7)
+- [Multicheckbox](https://codesandbox.io/p/sandbox/i-multi-checkbox-6dcj37)
