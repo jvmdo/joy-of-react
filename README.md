@@ -12,7 +12,7 @@
 - [Repository](https://github.com/jvmdo/toast-playground)
 - [CodeSandbox](https://codesandbox.io/p/github/jvmdo/toast-playground/main)
 
-### Word game (Wordle clone)
+### Word game (Wordle-like game)
 
 - [Repository](https://github.com/jvmdo/wordle-clone)
 - [CodeSandbox](https://codesandbox.io/p/github/jvmdo/wordle-clone/main)
@@ -143,3 +143,5 @@
 - [Drag and drop](https://codesandbox.io/p/sandbox/i-drag-and-drop-zdtc4r)
 - [Clicking outside](https://codesandbox.io/p/sandbox/i-clicking-outside-j62tf7)
 - [Multicheckbox](https://codesandbox.io/p/sandbox/i-multi-checkbox-6dcj37)
+- [Fetch race condition](https://codesandbox.io/p/sandbox/i-fetch-race-condition-2z7jhy)
+- [useEffectSkipMount](https://codesandbox.io/p/sandbox/i-useeffectskipmount-sglnw4)
